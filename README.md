@@ -36,6 +36,5 @@ To validate the proposed solution, we use the [packETH tool](https://github.com/
 - _Experiment 1_: In experiment 1, where we tested multicast forwarding, what we want to show is that our 5G system with the use of VxLAN can transmit a multicast frame to different production lines (i.e., UEs). Here, a single generated frame entering the 5G system can be transmitted to several production lines. We use PTP protocol frames as multicast frames.
 - _Experiment 2_: In experiment 2, it is shown that the frames are mapped to different QoS flows in the 5G system and these are translated into a prioritized treatment of each of the 5G flows. In addition, complying with the Packet Delay Budget (PDB).
 
-__Please note that, for reasons of integrity and confidentiality, the files associated with the results are currently displayed only partially, as the article presenting this research is currently undergoing a review process. Once the article is accepted, all files associated with the results will be made publicly available__.
 
 
