@@ -1,7 +1,13 @@
 # Frame Forwarding and QoS treatment solution for a 5G-TSN-based industrial network
 Our solution allows Ethernet frame forwarding among interconnected TSN islands (e.g., production lines and edge rooms) via an IP-based 5G system. Furthermore, our solution addresses the harmonization of QoS treatment between 5G and TSN. It is based on VxLAN tunneling to encapsulate Ethernet frames within the 5G system, ensuring that Ethernet header information is preserved as the frames traverse the 5G network. 
 
-This repository includes details about the configurations used for the paper: __The citation will be included when the paper which gathers this research is accepted__.
+This repository includes details about the configurations used for the paper: 
+
+[1] O. Adamuz-Hinojosa, F. Delgado-Ferro, J. Navarro-Ortiz, P. Muñoz, P. Ameigeiras "Unleashing 5G Seamless Integration with TSN for Industry 5.0: Frame Forwarding and QoS Treatment," IEEE Open Journal of the Communications Society, vol. 6, pp. 4874-4884, May 2025, DOI: 10.1109/OJCOMS.2025.3574397
+
+Post-print Available: https://arxiv.org/abs/2505.20239
+
+IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/11016774
 
 __If you use code from these repositories, please cite our paper. Thanks!__
 
